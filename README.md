@@ -213,8 +213,8 @@
         }
 
         .product-img {
-            height: 600px;
-            width: 100%;
+            height: 300px;
+            width: 300%;
             object-fit: cover;
         }
 
